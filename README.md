@@ -1,6 +1,6 @@
 # Reports
 This repository have the goal to store and explain my own reports using public datasets, all the information are my own responsability,  use only if you are certain about it.
-# Global Sells (pbi-vendasglobais-1.0.pbix file)
+# Global Product Sales (pbi-vendasglobais-1.0.pbix file)
 Detailed Analysis of Global Product Sales Data
 This report is intended for the thorough analysis of a dataset encompassing sales of products from various subcategories across various regions of the world, with additional focus on the prioritization of their delivery. The fundamental questions addressed in this report are as follows:
 
